@@ -14,4 +14,4 @@
 
 
 レポートはこちらのリポジトリ：
-	https://github.com/handai-trema/self-intro-k-tsuji.git
+	https://github.com/k-tsuji/reports.git
