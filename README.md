@@ -10,3 +10,8 @@
 
 大阪大学自体に未だ不慣れではございますが，
 どうぞ宜しく御願い致します．
+
+
+
+レポートはこちらのリポジトリ：
+	https://github.com/handai-trema/self-intro-k-tsuji.git
