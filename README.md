@@ -15,5 +15,5 @@
 
 
 #レポートへのリンク
-[google]: http://google.com/	"Google"  
-<https://github.com/k-tsuji/reports.git>  
+[bye_switch: ] <https://github.com/handai-trema/hello-trema-k-tsuji.git/report_hello_trema.md>  
+[hello_trema: ] <https://github.com/handai-trema/hello-trema-k-tsuji.git/report_bye_switch.md>  
