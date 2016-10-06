@@ -15,5 +15,5 @@
 
 
 #レポートへのリンク
-[bye_switch: ] <https://github.com/handai-trema/hello-trema-k-tsuji.git/report_hello_trema.md>  
-[hello_trema: ] <https://github.com/handai-trema/hello-trema-k-tsuji.git/report_bye_switch.md>  
+[bye_switch]: <hello-trema-k-tsuji/report_bye_switch.md> "bye_switch"  
+[hello_trema]: <hello-trema-k-tsuji/report_hello_trema.md> "hello_trema"  
