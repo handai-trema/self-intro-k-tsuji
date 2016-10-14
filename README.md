@@ -14,6 +14,8 @@
 
 
 
+
+
 #レポートへのリンク
 
 ##第１回（10/5）
@@ -22,4 +24,7 @@
 
 ##第２回（10/12）
 * [cbench](https://github.com/handai-trema/cbench-k-tsuji/blob/master/report_cbench.md)  
-* [learnig-switch](https://github.com/handai-trema/learning-switch-k-tsuji/blob/master/report_leacning-switch.md)  
+* [learnig-switch](https://github.com/handai-trema/learning-switch-k-tsuji/blob/develop/report_leacning-switch.md)  
+
+##第３回（10/14）
+>Coming soon ...
