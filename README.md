@@ -26,5 +26,9 @@
 * [cbench](https://github.com/handai-trema/cbench-k-tsuji/blob/master/report_cbench.md)  
 * [learnig-switch](https://github.com/handai-trema/learning-switch-k-tsuji/blob/develop/report_leacning-switch.md)  
 
-##第３回（10/14）
->Coming soon ...
+##第３回（10/19）
+* [patch-panel](https://github.com/handai-trema/patch-panel-k-tsuji/blob/develop/report_patch-panel.md)
+* [learning_switch13](https://github.com/handai-trema/learning-switch-k-tsuji/blob/develop/report_leacning-switch13.md)
+
+##第４回（10/26）
+Coming soon ...
