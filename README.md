@@ -37,7 +37,7 @@ None
 * [simple_router](https://github.com/handai-trema/simple-router-k-tsuji/blob/develop/report_simple-router.md)
 
 ##第６回（11/9）
-* [topology_1](https://github.com/handai-trema/deck/blob/develop/week6/assignment1_topology.md)
+* [topology_1](https://github.com/handai-trema/topology-handm/blob/develop/report_assignment1_topology.md)
 
 ##第７回（11/16）
 Coming soon ...
