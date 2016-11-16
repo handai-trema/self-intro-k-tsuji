@@ -38,6 +38,7 @@ None
 
 ##第６回（11/9）
 * [topology_1](https://github.com/handai-trema/topology-handm/blob/develop/report_assignment1_topology.md)
+* [topology_2](https://github.com/handai-trema/topology-handm/blob/develop/report_assignment2_topology.md)
 
 ##第７回（11/16）
 Coming soon ...
