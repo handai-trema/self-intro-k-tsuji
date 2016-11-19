@@ -41,4 +41,4 @@ None
 * [topology_2](https://github.com/handai-trema/topology-handm/blob/develop/report_assignment2_topology.md)
 
 ##第７回（11/16）
-Coming soon ...
+* [routing_switch](https://github.com/handai-trema/routing-switch-handm/blob/develop/report_routing-switch.md)
