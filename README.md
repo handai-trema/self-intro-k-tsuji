@@ -42,3 +42,6 @@ None
 
 ##第７回（11/16）
 * [routing_switch](https://github.com/handai-trema/routing-switch-handm/blob/develop/report_routing-switch.md)
+
+##第８回（11/30）
+* [sliceable_switch](https://github.com/handai-trema/sliceable-switch-handm/blob/develop/report_sliceable_switch.md#add_api)
